@@ -5,3 +5,5 @@ UnityProjekts/Tak OO/Library/PackageManager
 UnityProjekts/Tak OO/Library/StateCache
 *.asset
 *.json
+*.backup
+*
