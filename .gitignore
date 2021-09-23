@@ -1,1 +1,7 @@
 ﻿UnityProjekts/Tak OO/GarbatyTheGame/
+UnityProjekts/Tak OO/Library/Artifacts
+UnityProjekts/Tak OO/Library/StateCache
+UnityProjekts/Tak OO/Library/PackageManager
+UnityProjekts/Tak OO/Library/StateCache
+*.asset
+*.json
