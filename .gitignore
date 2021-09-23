@@ -7,3 +7,4 @@ UnityProjekts/Tak OO/Library/StateCache
 *.json
 *.backup
 *
+*.log
